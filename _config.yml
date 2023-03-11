@@ -18,14 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: ELLIS Reading Group on Mathematics of Deep Learning
+email: ellis-mathematics-of-deep-learning@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username:  jekyll
+  The blog for collecting information about meetings of the ELLIS
+  reading group on mathematics of deep learning.
 
 domain: link-er.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://link-er.github.io  # the base hostname and protocol for your site, e.g. http://example.com
@@ -34,8 +31,10 @@ baseurl: /ellis_rg_math_dl/   # place folder name if the site is served in a sub
 
 # Build settings
 theme: minima
+#remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
