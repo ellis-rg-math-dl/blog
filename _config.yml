@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   The blog for collecting information about meetings of the ELLIS
   reading group on mathematics of deep learning.
 
-domain: link-er.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://link-er.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /ellis_rg_math_dl/   # place folder name if the site is served in a subfolder
+domain: ellis-rg-math-dl.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ellis-rg-math-dl.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /blog   # place folder name if the site is served in a subfolder
 
 
 # Build settings
