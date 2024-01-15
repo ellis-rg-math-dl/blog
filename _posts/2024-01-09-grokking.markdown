@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Predicting grokking long before it happens"
+date:   2024-01-09
+categories: meetings
+---
+
+This time we had a discussion about grokking, which is a phenomenon of finding a good generalizing minimum long after finding training minimum.
+It can be reflecting the loss surface structure properties and therefore is interesting for investigation.
+Pascal Jr. Tikeng Notsawo presented the results from the paper accepted at workshop on Neural Scaling Laws: Emergence and Phase Transitions from ICML2023
+["Predicting Grokking Long Before it Happens: A look into the loss landscape of models which grok"](https://arxiv.org/pdf/2306.13253.pdf).
+
+Presentation can be found [here](https://drive.google.com/file/d/1ky8G1koLhI4s1sWGXRF8Lb6iK_19J3_w/view?usp=sharing).
